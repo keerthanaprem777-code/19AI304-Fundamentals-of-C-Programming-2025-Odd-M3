@@ -55,8 +55,6 @@ To formulate a C program to convert a decimal number into its binary equivalent 
     return 0;
 }
 # Output:
-
-
 <img width="557" height="261" alt="600741200-10fb69bc-8c27-4177-8081-f33073313a66" src="https://github.com/user-attachments/assets/a6042042-228b-4de9-a613-055f5937ed14" />
 
 # Result: 
